@@ -20,6 +20,8 @@
         slides: [
             { src: 'images/slide-image01.jpg' },
             { src: 'images/slide-image02.jpg' }
+            { src: 'images/hoodie-mockup-of-a-young-hipster-guy-staring-down-and-leaning-against-a-wall-a12594 (1).png' },
+            { src: 'images/hispanic-couple-posing-for-a-picture-while-wearing-different-crewneck-sweatshirts-mockup-a15568 (1).png' }
         ],
         timer: false,
         transition: [ 'zoomOut', ]
