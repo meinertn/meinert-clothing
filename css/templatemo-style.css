@@ -86,8 +86,9 @@ https://templatemo.com/tm-521-get-ready
     background: #202020;
   }
 
+/* #d2b48c */
   .overlay {
-    background: linear-gradient(to top right, #d2b48c, #000000);
+    background: linear-gradient(to top right, #2e3694, #000000);
     opacity: 0.9;
     position: absolute;
     top: 0;
